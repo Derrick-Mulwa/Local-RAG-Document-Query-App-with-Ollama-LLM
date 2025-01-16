@@ -1,4 +1,4 @@
-# RAG Question Answer System
+# Local RAG Document Query App with Ollama LLM
 
 This project implements a document retrieval and question-answering system that uses a combination of vector databases and language models. The system enables users to upload PDF documents, split them into chunks, store these chunks in a vector database, and perform Question Answering (Q&A) based on the content of the document.
 
